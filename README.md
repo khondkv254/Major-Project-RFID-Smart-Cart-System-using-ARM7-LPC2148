@@ -157,8 +157,9 @@ Responsible for:
 
 ## 7. Linux Frontend Application
 
-Developed using **C Language**.
+<img src="Images/Terminal_snaps.png" width="1000">
 
+Developed using **C Language**.
 ### Functions
 
 * Receives serial data from LPC2148
