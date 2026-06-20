@@ -312,6 +312,8 @@ The controller clears the shopping cart and waits for the next customer.
 
 # 🔄 System Flow
 
+<img src="Images/LCD_Interfaces.png" width="1000">
+
 ```text
 Customer scans RFID Tag
         │
