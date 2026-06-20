@@ -34,6 +34,8 @@ The LPC2148 communicates with the RFID Reader using **UART0** and with the Linux
 
 # 🔧 Hardware Components
 
+<img src="Images/Overview.png" width="1000">
+
 * ARM7 LPC2148 Microcontroller
 * EM-18 RFID Reader
 * RFID Cards
@@ -46,11 +48,6 @@ The LPC2148 communicates with the RFID Reader using **UART0** and with the Linux
 * Power Supply
 * Connecting Wires
 
----
-
-## System Architecture
-
-<img src="Images/Overview.png" width="1000">
 
 ---
 
