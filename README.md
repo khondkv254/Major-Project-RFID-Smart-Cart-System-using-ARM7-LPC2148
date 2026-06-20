@@ -8,6 +8,12 @@ The LPC2148 communicates with the RFID Reader using **UART0** and with the Linux
 
 ---
 
+## Block Daigram
+
+<img src="Images/Block Daigram.jpeg" width="1000">
+
+---
+
 # ✨ Features
 
 * RFID-based product identification
@@ -39,6 +45,12 @@ The LPC2148 communicates with the RFID Reader using **UART0** and with the Linux
 * USB-UART Converter / Serial Cable
 * Power Supply
 * Connecting Wires
+
+---
+
+## System Architecture
+
+<img src="Images/Overview.png" width="1000">
 
 ---
 
@@ -181,6 +193,10 @@ These files store:
 ---
 
 # ⚙️ Project Methodology
+
+<img src="Images/System flow.png" width="1000">
+
+---
 
 ## 1. System Initialization
 
